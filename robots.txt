@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reelsvideo.in/sitemap_index.xml
+Sitemap: https://reelsvideo.in/sitemap.xml
